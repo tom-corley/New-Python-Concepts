@@ -1,2 +1,2 @@
 - requirements.txt list of dependencies use touch pip freeze > requierements.txt
-- readme.md , add screenshots of program in the readme, how it works, use bookmark on chrom
+- readme.md , add screenshots of program in the readme, how it works, use bookmark on chrome
