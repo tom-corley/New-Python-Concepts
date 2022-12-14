@@ -2,3 +2,4 @@
 - readme.md , add screenshots of program in the readme, how it works, use bookmark on chrome
 - push requests upload code, pull request is a request to the owner of repository to pull your code into the branch
 - docker package application in loosely ... container
+- expermineting with sending a pull request of this text
